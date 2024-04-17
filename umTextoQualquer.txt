@@ -1,0 +1,7 @@
+Olá! Sou um entusiasta da tecnologia, atualmente cursando Engenharia de Computação aos 22 anos. Desde cedo, minha paixão por desafios lógicos e a criatividade inerente à resolução de problemas me conduziram ao mundo da programação. Ao longo dos anos, tenho aprimorado minhas habilidades, especialmente como desenvolvedor back-end.
+
+Minha jornada como desenvolvedor tem sido emocionante e repleta de aprendizado. Aprofundei-me em linguagens como Python, Java e C++, utilizando esse conhecimento para criar soluções robustas e eficientes. Além disso, tenho experiência prática com frameworks como Spring e Django, que me permitiram desenvolver sistemas escaláveis e de alta performance.
+
+Acredito firmemente na importância da colaboração e do compartilhamento de conhecimento. Em equipes de desenvolvimento, busco sempre contribuir de forma proativa, seja auxiliando em desafios complexos ou colaborando na elaboração de soluções inovadoras.
+
+Estou ansioso para expandir ainda mais minha experiência como desenvolvedor back-end e contribuir para projetos que impactem positivamente a vida das pessoas. Se você está em busca de alguém apaixonado por tecnologia e comprometido com a excelência, ficarei feliz em fazer parte da sua equipe!
